@@ -32,7 +32,7 @@
 <br>
 
 <!-- Preview Image -->
-<img src="https://raw.githubusercontent.com/yourusername/velora/main/assets/preview.png" width="100%" alt="Velora Preview" style="border-radius: 20px; box-shadow: 0 20px 60px rgba(0,245,212,0.15);">
+<img src="https://raw.githubusercontent.com/zypil/Velora/main/preview.png" width="100%" alt="Velora Preview" style="border-radius: 20px; box-shadow: 0 20px 60px rgba(0,245,212,0.15);">
 
 </div>
 
