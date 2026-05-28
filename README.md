@@ -246,7 +246,7 @@ SOFTWARE.
 **Made with 💜 and pure web technologies.**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/velora/main/assets/logo.svg" width="40" height="40" alt="Velora">
+  <img src="https://raw.githubusercontent.com/zypil/Velora/main/icon.png" width="40" height="40" alt="Velora">
 </p>
 
 *Measure Speed. Track Distance. Feel the Rush.*
